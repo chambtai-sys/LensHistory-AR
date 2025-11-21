@@ -1,0 +1,8 @@
+{
+  "name": "LensHistory AR",
+  "description": "Snap a photo of a landmark to instantly hear its history via AI-powered narration and search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
